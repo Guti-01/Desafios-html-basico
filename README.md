@@ -20,4 +20,4 @@ Crie uma imagem com link externo
 
 ## Linguagens utilizadas
 
--
+- HTML
